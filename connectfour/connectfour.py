@@ -16,7 +16,7 @@ def main():
 
     # get players
     active_player_index = 0
-    players = ["Bridget", "Computer"]
+    players = ["Player 1", "Player 2"]
     symbols = ["X", "O"]
 
     # repeat until breakpoint (winner)
@@ -30,7 +30,7 @@ def main():
         this_turn = choose_location(board, symbol)
         # check if placement failed and retry turn
         if not this_turn:
-            print("You can't place a piece there, try again.")
+            print("You can't place that piece, try again.")
             continue
         # see if this turn has made a winner and end the game
         if find_winner(board, symbol, this_turn):
@@ -62,8 +62,11 @@ def show_board(board):
 
 
 def choose_location(board, symbol):
-    # get the column number to drop piece
-    column = int(input(f"Choose a column to drop your {symbol} piece(1-7): "))
+    try:
+        # get the column number to drop piece
+        column = int(input(f"Choose a column to drop your {symbol} piece(1-7): "))
+    except ValueError:
+        return False
     # offset for array index 0
     column -= 1
     # check for out of bound entry
