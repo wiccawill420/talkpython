@@ -98,3 +98,139 @@ Game Over
 [2020-07-16 17:03:51] Game Over
 [2020-07-16 17:17:33] App starting up
 [2020-07-16 17:17:33] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'water', 'air'] from rolls.json
+[2020-07-17 11:38:16] App starting up
+[2020-07-17 11:38:16] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'water', 'air'] from rolls.json
+[2020-07-17 11:41:26] App starting up
+[2020-07-17 11:41:26] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'water', 'air'] from rolls.json
+[2020-07-17 11:43:15] App starting up
+[2020-07-17 11:43:15] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'water', 'air'] from rolls.json
+[2020-07-17 11:43:20] bil has logged in.
+[2020-07-17 11:43:20] New game starting between bil and Computer
+[2020-07-17 11:45:23] App starting up
+[2020-07-17 11:45:23] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'water', 'air'] from rolls.json
+[2020-07-17 11:46:33] App starting up
+[2020-07-17 11:46:33] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'water', 'air'] from rolls.json
+[2020-07-17 11:46:40] jj has logged in.
+[2020-07-17 11:46:40] New game starting between jj and Computer
+[2020-07-17 11:46:43] Round: jj rolls rock and Computer rolls fire
+[2020-07-17 11:46:43] jj has won this round
+[2020-07-17 11:46:43] Score is jj: 1 and Computer: 0
+[2020-07-17 11:46:50] Round: jj rolls paper and Computer rolls paper
+[2020-07-17 11:46:50] This round was a tie!
+[2020-07-17 11:46:50] Score is jj: 1 and Computer: 0
+[2020-07-17 11:46:53] Round: jj rolls rock and Computer rolls scissors
+[2020-07-17 11:46:53] jj has won this round
+[2020-07-17 11:46:53] Score is jj: 2 and Computer: 0
+[2020-07-17 11:46:59] Round: jj rolls paper and Computer rolls air
+[2020-07-17 11:46:59] jj has won this round
+[2020-07-17 11:46:59] Score is jj: 3 and Computer: 0
+[2020-07-17 11:46:59] jj wins the game!
+[2020-07-17 11:46:59] Game Over
+[2020-07-17 11:50:01] App starting up
+[2020-07-17 11:50:01] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'water', 'air'] from rolls.json
+[2020-07-17 11:50:07] jj has logged in.
+[2020-07-17 11:50:07] New game starting between jj and Computer
+[2020-07-17 11:50:09] Round: jj rolls rock and Computer rolls paper
+[2020-07-17 11:50:09] Computer has won this round
+[2020-07-17 11:50:09] Score is jj: 0 and Computer: 1
+[2020-07-17 11:50:12] Round: jj rolls paper and Computer rolls water
+[2020-07-17 11:50:12] jj has won this round
+[2020-07-17 11:50:12] Score is jj: 1 and Computer: 1
+[2020-07-17 11:50:16] Round: jj rolls rock and Computer rolls sponge
+[2020-07-17 11:50:16] jj has won this round
+[2020-07-17 11:50:16] Score is jj: 2 and Computer: 1
+[2020-07-17 11:50:20] Round: jj rolls rock and Computer rolls sponge
+[2020-07-17 11:50:20] jj has won this round
+[2020-07-17 11:50:20] Score is jj: 3 and Computer: 1
+[2020-07-17 11:50:20] jj wins the game!
+[2020-07-17 11:50:20] Game Over
+[2020-07-17 11:56:44] App starting up
+[2020-07-17 11:56:44] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'water', 'air'] from rolls.json
+[2020-07-17 11:56:49] kk has logged in.
+[2020-07-17 11:56:49] New game starting between kk and Computer
+[2020-07-17 12:00:08] App starting up
+[2020-07-17 12:00:08] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'water', 'air'] from rolls.json
+[2020-07-17 12:00:49] App starting up
+[2020-07-17 12:00:49] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'water', 'air'] from rolls.json
+[2020-07-17 12:00:52] kk has logged in.
+[2020-07-17 12:00:52] New game starting between kk and Computer
+[2020-07-17 12:01:23] App starting up
+[2020-07-17 12:01:23] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'water', 'air'] from rolls.json
+[2020-07-17 12:01:25] kk has logged in.
+[2020-07-17 12:01:25] New game starting between kk and Computer
+[2020-07-17 12:01:35] Round: kk rolls paper and Computer rolls sponge
+[2020-07-17 12:01:35] Computer has won this round
+[2020-07-17 12:01:35] Score is kk: 0 and Computer: 1
+[2020-07-17 12:01:54] Round: kk rolls scissors and Computer rolls fire
+[2020-07-17 12:01:54] Computer has won this round
+[2020-07-17 12:01:54] Score is kk: 0 and Computer: 2
+[2020-07-17 12:01:57] Round: kk rolls scissors and Computer rolls water
+[2020-07-17 12:01:57] Computer has won this round
+[2020-07-17 12:01:57] Score is kk: 0 and Computer: 3
+[2020-07-17 12:01:57] Computer wins the game!
+[2020-07-17 12:01:57] Game Over
+[2020-07-17 12:07:08] App starting up
+[2020-07-17 12:07:08] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'water', 'air'] from rolls.json
+[2020-07-17 12:07:11] kk has logged in.
+[2020-07-17 12:07:11] New game starting between kk and Computer
+[2020-07-17 12:08:23] App starting up
+[2020-07-17 12:08:23] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'water', 'air'] from rolls.json
+[2020-07-17 12:08:27] kk has logged in.
+[2020-07-17 12:08:27] New game starting between kk and Computer
+[2020-07-17 12:11:17] App starting up
+[2020-07-17 12:11:17] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'water', 'air'] from rolls.json
+[2020-07-17 12:11:20] kk has logged in.
+[2020-07-17 12:11:20] New game starting between kk and Computer
+[2020-07-17 12:11:28] Round: kk rolls sponge and Computer rolls water
+[2020-07-17 12:11:28] kk has won this round
+[2020-07-17 12:11:28] Score is kk: 1 and Computer: 0
+[2020-07-17 12:11:33] Round: kk rolls fire and Computer rolls rock
+[2020-07-17 12:11:33] Computer has won this round
+[2020-07-17 12:11:33] Score is kk: 1 and Computer: 1
+[2020-07-17 12:11:38] Round: kk rolls water and Computer rolls air
+[2020-07-17 12:11:38] Computer has won this round
+[2020-07-17 12:11:38] Score is kk: 1 and Computer: 2
+[2020-07-17 12:11:41] Round: kk rolls rock and Computer rolls air
+[2020-07-17 12:11:41] Computer has won this round
+[2020-07-17 12:11:41] Score is kk: 1 and Computer: 3
+[2020-07-17 12:11:41] Computer wins the game!
+[2020-07-17 12:11:41] Game Over
+[2020-07-17 12:27:32] App starting up
+[2020-07-17 12:27:32] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'water', 'air'] from rolls.json
+[2020-07-17 12:27:35] lk has logged in.
+[2020-07-17 12:27:35] New game starting between lk and Computer
+[2020-07-17 12:28:52] App starting up
+[2020-07-17 12:28:52] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'water', 'air'] from rolls.json
+[2020-07-17 12:28:54] lk has logged in.
+[2020-07-17 12:28:54] New game starting between lk and Computer
+[2020-07-17 12:29:00] Round: lk rolls water and Computer rolls sponge
+[2020-07-17 12:29:00] Computer has won this round
+[2020-07-17 12:29:00] Score is lk: 0 and Computer: 1
+[2020-07-17 12:29:04] Round: lk rolls scissors and Computer rolls scissors
+[2020-07-17 12:29:04] This round was a tie!
+[2020-07-17 12:29:04] Score is lk: 0 and Computer: 1
+[2020-07-17 12:29:08] Round: lk rolls air and Computer rolls scissors
+[2020-07-17 12:29:08] Computer has won this round
+[2020-07-17 12:29:08] Score is lk: 0 and Computer: 2
+[2020-07-17 12:29:10] Round: lk rolls air and Computer rolls sponge
+[2020-07-17 12:29:10] Computer has won this round
+[2020-07-17 12:29:10] Score is lk: 0 and Computer: 3
+[2020-07-17 12:29:10] Computer wins the game!
+[2020-07-17 12:29:10] Game Over
+[2020-07-17 12:29:54] App starting up
+[2020-07-17 12:29:54] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'water', 'air'] from rolls.json
+[2020-07-17 12:29:55] kk has logged in.
+[2020-07-17 12:29:55] New game starting between kk and Computer
+[2020-07-17 12:30:01] Round: kk rolls scissors and Computer rolls scissors
+[2020-07-17 12:30:01] This round was a tie!
+[2020-07-17 12:30:01] Score is kk: 0 and Computer: 0
+[2020-07-17 12:30:46] App starting up
+[2020-07-17 12:30:46] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'water', 'air'] from rolls.json
+[2020-07-17 12:30:48] kk has logged in.
+[2020-07-17 12:30:48] New game starting between kk and Computer
+[2020-07-17 12:30:56] Round: kk rolls scissors and Computer rolls air
+[2020-07-17 12:30:56] kk has won this round
+[2020-07-17 12:30:56] Score is kk: 1 and Computer: 0
+[2020-07-17 12:31:10] Round: kk rolls scissors and Computer rolls water
+[2020-07-17 12:31:10] Computer has won this round
+[2020-07-17 12:31:10] Score is kk: 1 and Computer: 1
