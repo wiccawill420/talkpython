@@ -1,6 +1,8 @@
+from colorama import Fore
+
 
 def main():
-    print("Welcome to Tic Tac Toe!")
+    print(Fore.WHITE + "Welcome to Tic Tac Toe!")
     # board is a list of rows
     # rows are a list of cells
     board = [
@@ -20,17 +22,19 @@ def main():
         player = players[active_player_index]
         symbol = symbols[active_player_index]
 
-        announce_turn(player)
+        announce_turn(player, active_player_index)
         show_board(board)
         if not choose_location(board, symbol):
-            print("that isn't an option, try again.")
+            print(Fore.RED + "that isn't an option, try again.")
+            print(Fore.WHITE)
             continue
 
         # toggle active player
         active_player_index = (active_player_index + 1) % len(players)
 
     print()
-    print(f"GAME OVER! {player} has won with the board: ")
+    fore = Fore.GREEN if active_player_index == 1 else Fore.YELLOW
+    print("GAME OVER! " + fore + player + Fore.WHITE + " has won with the board: ")
     show_board(board)
     print()
 
@@ -56,16 +60,24 @@ def choose_location(board, symbol):
 
 def show_board(board):
     for row in board:
-        print("| ", end='')
+        print(Fore.WHITE + "| ", end='')
         for cell in row:
             symbol = cell if cell is not None else "_"
-            print(symbol, end=" | ")
+            if cell == 'X':
+                fore = Fore.GREEN
+            elif cell == 'O':
+                fore = Fore.YELLOW
+            else:
+                fore = Fore.WHITE
+            print(fore + symbol, end='')
+            print(Fore.WHITE + " | ", end='')
         print()
 
 
-def announce_turn(player):
+def announce_turn(player, index):
     print()
-    print(f"It's {player}'s turn")
+    fore = Fore.GREEN if index == 0 else Fore.YELLOW
+    print(fore + f"It's {player}'s turn" + Fore.WHITE)
     print()
 
 
