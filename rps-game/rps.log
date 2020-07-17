@@ -1,0 +1,100 @@
+App starting up
+Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'water', 'air'] from rolls.json
+Bridget has logged in.
+New game starting between Bridget and Computer
+Round: Bridget rolls fire and Computer rolls paper
+Bridget has won this round
+Score is Bridget: 1 and Computer: 0
+Round: Bridget rolls fire and Computer rolls water
+Computer has won this round
+Score is Bridget: 1 and Computer: 1
+Round: Bridget rolls fire and Computer rolls fire
+This round was a tie!
+Score is Bridget: 1 and Computer: 1
+Round: Bridget rolls fire and Computer rolls paper
+Bridget has won this round
+Score is Bridget: 2 and Computer: 1
+Round: Bridget rolls fire and Computer rolls water
+Computer has won this round
+Score is Bridget: 2 and Computer: 2
+Round: Bridget rolls fire and Computer rolls rock
+Computer has won this round
+Score is Bridget: 2 and Computer: 3
+Computer wins the game!
+Game Over
+App starting up
+Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'water', 'air'] from rolls.json
+Angel has logged in.
+New game starting between Angel and Computer
+Round: Angel rolls rock and Computer rolls rock
+This round was a tie!
+Score is Angel: 0 and Computer: 0
+Round: Angel rolls paper and Computer rolls sponge
+Computer has won this round
+Score is Angel: 0 and Computer: 1
+Round: Angel rolls scissors and Computer rolls sponge
+Angel has won this round
+Score is Angel: 1 and Computer: 1
+Round: Angel rolls fire and Computer rolls scissors
+Angel has won this round
+Score is Angel: 2 and Computer: 1
+Round: Angel rolls sponge and Computer rolls rock
+Computer has won this round
+Score is Angel: 2 and Computer: 2
+Round: Angel rolls paper and Computer rolls scissors
+Computer has won this round
+Score is Angel: 2 and Computer: 3
+Computer wins the game!
+Game Over
+App starting up
+Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'water', 'air'] from rolls.json
+Angel has logged in.
+New game starting between Angel and Computer
+Round: Angel rolls scissors and Computer rolls fire
+Computer has won this round
+Score is Angel: 0 and Computer: 1
+Round: Angel rolls fire and Computer rolls rock
+Computer has won this round
+Score is Angel: 0 and Computer: 2
+Round: Angel rolls paper and Computer rolls paper
+This round was a tie!
+Score is Angel: 0 and Computer: 2
+Round: Angel rolls paper and Computer rolls water
+Angel has won this round
+Score is Angel: 1 and Computer: 2
+Round: Angel rolls rock and Computer rolls fire
+Angel has won this round
+Score is Angel: 2 and Computer: 2
+Round: Angel rolls rock and Computer rolls rock
+This round was a tie!
+Score is Angel: 2 and Computer: 2
+Round: Angel rolls paper and Computer rolls scissors
+Computer has won this round
+Score is Angel: 2 and Computer: 3
+Computer wins the game!
+Game Over
+[Thu Jul 16 17:01:17 2020] App starting up
+[Thu Jul 16 17:01:17 2020] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'water', 'air'] from rolls.json
+[2020-07-16 17:03:27] App starting up
+[2020-07-16 17:03:27] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'water', 'air'] from rolls.json
+[2020-07-16 17:03:36] Bridget has logged in.
+[2020-07-16 17:03:36] New game starting between Bridget and Computer
+[2020-07-16 17:03:39] Round: Bridget rolls rock and Computer rolls scissors
+[2020-07-16 17:03:39] Bridget has won this round
+[2020-07-16 17:03:39] Score is Bridget: 1 and Computer: 0
+[2020-07-16 17:03:42] Round: Bridget rolls fire and Computer rolls rock
+[2020-07-16 17:03:42] Computer has won this round
+[2020-07-16 17:03:42] Score is Bridget: 1 and Computer: 1
+[2020-07-16 17:03:45] Round: Bridget rolls paper and Computer rolls paper
+[2020-07-16 17:03:45] This round was a tie!
+[2020-07-16 17:03:45] Score is Bridget: 1 and Computer: 1
+[2020-07-16 17:03:48] Round: Bridget rolls scissors and Computer rolls sponge
+[2020-07-16 17:03:48] Bridget has won this round
+[2020-07-16 17:03:48] Score is Bridget: 2 and Computer: 1
+[2020-07-16 17:03:51] Round: Bridget rolls sponge and Computer rolls air
+[2020-07-16 17:03:51] Bridget has won this round
+[2020-07-16 17:03:51] Score is Bridget: 3 and Computer: 1
+[2020-07-16 17:03:51] Bridget wins the game!
+[2020-07-16 17:03:51] Game Over
+[2020-07-16 17:17:33] App starting up
+[2020-07-16 17:17:33] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'water', 'air'] from rolls.json
