@@ -234,3 +234,127 @@ Game Over
 [2020-07-17 12:31:10] Round: kk rolls scissors and Computer rolls water
 [2020-07-17 12:31:10] Computer has won this round
 [2020-07-17 12:31:10] Score is kk: 1 and Computer: 1
+[2020-07-22 06:54:50] App starting up
+[2020-07-22 06:54:50] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'water', 'air'] from rolls.json
+[2020-07-22 06:54:56] Bridget has logged in.
+[2020-07-22 06:54:56] New game starting between Bridget and Computer
+[2020-07-22 06:55:00] Round: Bridget rolls rock and Computer rolls sponge
+[2020-07-22 06:55:00] Bridget has won this round
+[2020-07-22 06:55:00] Score is Bridget: 1 and Computer: 0
+[2020-07-22 06:55:04] Round: Bridget rolls paper and Computer rolls water
+[2020-07-22 06:55:04] Bridget has won this round
+[2020-07-22 06:55:04] Score is Bridget: 2 and Computer: 0
+[2020-07-22 06:55:11] Round: Bridget rolls scissors and Computer rolls rock
+[2020-07-22 06:55:11] Computer has won this round
+[2020-07-22 06:55:11] Score is Bridget: 2 and Computer: 1
+[2020-07-22 06:55:15] Round: Bridget rolls fire and Computer rolls sponge
+[2020-07-22 06:55:15] Bridget has won this round
+[2020-07-22 06:55:15] Score is Bridget: 3 and Computer: 1
+[2020-07-22 06:55:15] Bridget wins the game!
+[2020-07-22 06:55:15] Game Over
+[2020-07-22 06:56:45] App starting up
+[2020-07-22 06:56:45] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'water', 'air'] from rolls.json
+[2020-07-22 06:56:48] Bridget has logged in.
+[2020-07-22 06:56:48] New game starting between Bridget and Computer
+[2020-07-22 06:56:52] Round: Bridget rolls rock and Computer rolls paper
+[2020-07-22 06:56:52] Computer has won this round
+[2020-07-22 06:56:52] Score is Bridget: 0 and Computer: 1
+[2020-07-22 06:56:55] Round: Bridget rolls paper and Computer rolls rock
+[2020-07-22 06:56:55] Bridget has won this round
+[2020-07-22 06:56:55] Score is Bridget: 1 and Computer: 1
+[2020-07-22 06:56:58] Round: Bridget rolls scissors and Computer rolls air
+[2020-07-22 06:56:58] Bridget has won this round
+[2020-07-22 06:56:58] Score is Bridget: 2 and Computer: 1
+[2020-07-22 06:57:00] Round: Bridget rolls scissors and Computer rolls paper
+[2020-07-22 06:57:00] Bridget has won this round
+[2020-07-22 06:57:00] Score is Bridget: 3 and Computer: 1
+[2020-07-22 06:57:00] Bridget wins the game!
+[2020-07-22 06:57:00] Game Over
+[2020-07-22 06:59:31] App starting up
+[2020-07-22 06:59:31] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'water', 'air'] from rolls.json
+[2020-07-22 06:59:35] bob has logged in.
+[2020-07-22 06:59:35] New game starting between bob and Computer
+[2020-07-22 06:59:38] Round: bob rolls seven and Computer rolls paper
+[2020-07-22 07:01:04] App starting up
+[2020-07-22 07:01:04] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'water', 'air'] from rolls.json
+[2020-07-22 07:01:09] bridget has logged in.
+[2020-07-22 07:01:09] New game starting between bridget and Computer
+[2020-07-22 07:05:25] App starting up
+[2020-07-22 07:05:25] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'water', 'air'] from rolls.json
+[2020-07-22 07:05:30] bridget has logged in.
+[2020-07-22 07:05:30] New game starting between bridget and Computer
+[2020-07-22 07:06:05] App starting up
+[2020-07-22 07:06:05] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'water', 'air'] from rolls.json
+[2020-07-22 07:06:09] asd has logged in.
+[2020-07-22 07:06:09] New game starting between asd and Computer
+[2020-07-22 07:08:25] App starting up
+[2020-07-22 07:08:25] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'water', 'air'] from rolls.json
+[2020-07-22 07:08:30] asdf has logged in.
+[2020-07-22 07:08:30] New game starting between asdf and Computer
+[2020-07-22 07:08:31] Round: asdf rolls fire and Computer rolls water
+[2020-07-22 07:08:31] Computer has won this round
+[2020-07-22 07:08:31] Score is asdf: 0 and Computer: 1
+[2020-07-22 07:09:34] App starting up
+[2020-07-22 07:09:34] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'water', 'air'] from rolls.json
+[2020-07-22 07:09:37] asdf has logged in.
+[2020-07-22 07:09:37] New game starting between asdf and Computer
+[2020-07-22 07:10:03] Round: asdf rolls sponge and Computer rolls rock
+[2020-07-22 07:10:03] Computer has won this round
+[2020-07-22 07:10:03] Score is asdf: 0 and Computer: 1
+[2020-07-22 07:12:13] App starting up
+[2020-07-22 07:24:57] App starting up
+[2020-07-22 07:24:57] Game Over
+[2020-07-22 07:27:31] App starting up
+[2020-07-22 07:27:31] Game Over
+[2020-07-22 07:28:00] App starting up
+[2020-07-22 07:28:00] Game Over
+[2020-07-22 07:28:20] App starting up
+[2020-07-22 07:28:20] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'water', 'air'] from rolls.json
+[2020-07-22 07:28:21] Game Over
+[2020-07-22 07:41:28] App starting up
+[2020-07-22 07:41:28] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'water', 'air'] from rolls.json
+[2020-07-22 07:45:00] App starting up
+[2020-07-22 07:45:00] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'water', 'air'] from rolls.json
+[2020-07-22 07:45:02] Game Over
+[2020-07-22 07:45:09] App starting up
+[2020-07-22 07:45:09] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'water', 'air'] from rolls.json
+[2020-07-22 07:45:12] asdf has logged in.
+[2020-07-22 07:45:12] New game starting between asdf and Computer
+[2020-07-22 07:45:21] Game Over
+[2020-07-22 07:45:28] App starting up
+[2020-07-22 07:45:28] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'water', 'air'] from rolls.json
+[2020-07-22 07:45:32] Bridget has logged in.
+[2020-07-22 07:45:32] New game starting between Bridget and Computer
+[2020-07-22 07:45:33] Round: Bridget rolls rock and Computer rolls paper
+[2020-07-22 07:45:33] Computer has won this round
+[2020-07-22 07:45:33] Score is Bridget: 0 and Computer: 1
+[2020-07-22 07:45:33] Round: Bridget rolls rock and Computer rolls sponge
+[2020-07-22 07:45:33] Bridget has won this round
+[2020-07-22 07:45:33] Score is Bridget: 1 and Computer: 1
+[2020-07-22 07:45:34] Round: Bridget rolls rock and Computer rolls air
+[2020-07-22 07:45:34] Computer has won this round
+[2020-07-22 07:45:34] Score is Bridget: 1 and Computer: 2
+[2020-07-22 07:45:34] Round: Bridget rolls rock and Computer rolls rock
+[2020-07-22 07:45:34] This round was a tie!
+[2020-07-22 07:45:34] Score is Bridget: 1 and Computer: 2
+[2020-07-22 07:45:34] Round: Bridget rolls rock and Computer rolls air
+[2020-07-22 07:45:34] Computer has won this round
+[2020-07-22 07:45:34] Score is Bridget: 1 and Computer: 3
+[2020-07-22 07:45:34] Computer wins the game!
+[2020-07-22 07:45:34] Game Over
+[2020-07-22 07:46:19] App starting up
+[2020-07-22 07:46:19] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'water', 'air'] from rolls.json
+[2020-07-22 07:46:22] Game Over
+[2020-07-22 07:46:23] App starting up
+[2020-07-22 07:46:23] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'water', 'air'] from rolls.json
+[2020-07-22 07:46:27] Bridget has logged in.
+[2020-07-22 07:46:27] New game starting between Bridget and Computer
+[2020-07-22 07:46:36] Round: Bridget rolls scissors and Computer rolls water
+[2020-07-22 07:46:36] Computer has won this round
+[2020-07-22 07:46:36] Score is Bridget: 0 and Computer: 1
+[2020-07-22 07:46:39] Game Over
+[2020-07-22 07:50:30] App starting up
+[2020-07-22 07:50:30] Game Over
+[2020-07-22 07:50:42] App starting up
+[2020-07-22 07:50:42] Loaded rolls: ['rock', 'paper', 'scissors', 'fire', 'sponge', 'water', 'air'] from rolls.json
+[2020-07-22 07:50:43] Game Over
